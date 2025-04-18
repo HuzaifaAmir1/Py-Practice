@@ -1,5 +1,5 @@
-# Py-Practice
 # 🧠 Python with Google Colab – A Step to Machine Learning
+
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat-square&logo=googlecolab)
